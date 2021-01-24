@@ -1,1 +1,3 @@
 # Adaptive-Control-of-Robotic-Arm-under-Time-varying-Uncertainties
+
+## Function Approximation Technique (FAT) is a regressor-free adaptive control for manipulators operatingunder time-varying uncertainties. The basic idea is to represent the general uncertainties by using a set of known basis functions weighted by a set of unknown coefficients. The uncertainties are expressed by FAT equations such as Fourier Series, Bessel and Taylor polynomials. There are many studies based on the same FAT adaptive control. In this project, FAT adaptive control scheme for 2-DOF robot arm carrying uncertain time-varying payload is implemented and also tested for different desired trajectories and cases to check the tracking performance of the controller
